@@ -8,7 +8,7 @@
 - 😄 Hobbies: Exploring new ideas
 - ⚡ Fun Fact: Spending most of my time in problem solving
 - 🤔 Discuss: Algorithms anytime anywhere
-- 📫 How to reach me: Email: `pk14009432@gmail.com`
+- 📫 How to reach me: Email: `pintukumar.official12@gmail.com`
 
 
 <details>
@@ -19,4 +19,4 @@
 #### Connect with me via:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pk14009432)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pk14009432/)&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pk14009432)&nbsp;  
 
-![Visitor Count](https://profile-counter.glitch.me/pk14009432/count.svg)
+[Visitor Count](https://profile-counter.glitch.me/pk14009432/count.svg)
