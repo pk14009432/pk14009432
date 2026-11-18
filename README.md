@@ -48,10 +48,17 @@ I use this GitHub profile to document practical learning, security labs, automat
 - Zero Trust architecture
 - Privacy engineering and data protection governance
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
-- GitHub: [@pk14009432](https://github.com/pk14009432)
-- LinkedIn: [lınkedln](https://www.linkedin.com/in/pk14009432)
+<p align="left">
+  <a href="https://github.com/pk14009432" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pk14009432" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
