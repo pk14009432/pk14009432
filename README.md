@@ -51,7 +51,7 @@ I use this GitHub profile to document practical learning, security labs, automat
 ## 🤝 Connect
 
 - GitHub: [@pk14009432](https://github.com/pk14009432)
-- LinkedIn: [lınkedln](www.linkedin.com/in/pk14009432)
+- LinkedIn: [lınkedln](https://www.linkedin.com/in/pk14009432)
 
 ---
 
