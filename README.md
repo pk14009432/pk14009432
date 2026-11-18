@@ -1,22 +1,58 @@
-### Hey there 👋 I am Pintu
+# Hi, I'm Pintu Kumar 👋
 
-### About Me
+### Cybersecurity Analyst | Network Security | Data Privacy
 
-- 🔭 I’m currently working on HTML, CSS, Javascript, C++, Node Js and Angular Js
-- 🌱 I’m currently learning about Data Structures, Algorithms, Design patterns
-- 💬 Ask me about System Design, OOPS, Databases and Algorithms
-- 😄 Hobbies: Exploring new ideas
-- ⚡ Fun Fact: Spending most of my time in problem solving
-- 🤔 Discuss: Algorithms anytime anywhere
-- 📫 How to reach me: Email: `pintukumar.official12@gmail.com`
+I'm a cybersecurity professional with experience supporting enterprise security environments, access controls, authentication, web security and network security operations.
 
+I'm also developing my knowledge of data privacy, privacy regulations and responsible data handling, with an interest in connecting security controls with practical privacy requirements.
 
-<details>
-  <summary>GitHub Statistics</summary>
-  <img  src="https://github-readme-stats.vercel.app/api/?username=pk14009432&theme=tokyonight&count_private=true&hide=issues,contribs&show_icons=true" alt="Stats"/>
-</details>
+## 🔐 Cybersecurity Focus
 
-#### Connect with me via:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pk14009432)&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pk14009432/)&nbsp;  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/pk14009432)&nbsp;  
+- Network and perimeter security
+- Zero Trust Network Access (ZTNA)
+- Secure Web Gateway (SWG)
+- Identity and access management (IAM)
+- Multi-factor authentication (MFA)
+- Security policy administration and troubleshooting
+- Security operations and incident analysis
 
-[Visitor Count](https://profile-counter.glitch.me/pk14009432/count.svg)
+## 🧰 Technologies
+
+- Zscaler Private Access (ZPA)
+- Fortinet FortiGate
+- Netskope
+- McAfee Web Gateway
+- F5 BIG-IP
+- Thales SafeNet Authentication Service
+- Palo Alto Networks (policy configuration exposure)
+- Python (learning for security automation)
+
+## 🛡️ Data Privacy & Governance
+
+Currently building knowledge and practical resources around:
+
+- GDPR, India's Digital Personal Data Protection (DPDP) Act and CCPA
+- Personal data discovery and data classification
+- Consent and data subject rights
+- Privacy risk assessments and compliance readiness
+- Data protection principles and responsible AI
+
+## 🚀 What I'm Building
+
+I use this GitHub profile to document practical learning, security labs, automation exercises and privacy-focused resources. Projects are designed with simulated data and sanitized examples; no employer or customer information is shared here.
+
+## 📚 Current Learning
+
+- Python scripting for security operations
+- Network security monitoring and log analysis
+- Zero Trust architecture
+- Privacy engineering and data protection governance
+
+## 🤝 Connect
+
+- GitHub: [@pk14009432](https://github.com/pk14009432)
+- LinkedIn: [Add your LinkedIn profile URL]
+
+---
+
+*Learning continuously. Building practical skills. Sharing responsibly.*
